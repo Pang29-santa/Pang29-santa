@@ -1,8 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1E3B2F,50:2C5040,100:66734F&text=Sukanya%20Santa&fontSize=60&fontColor=F5F0E6&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descSize=22&descColor=DCD3BC&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3B2F&height=200&section=header&text=Sukanya%20Santa&fontSize=56&fontColor=F5F0E6" />
 
-<a href="https://github.com/Pang29-santa"><img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=22&duration=3000&pause=1000&color=C8B48A&center=true&vCenter=true&width=600&lines=สวัสดีค่ะ+ฉัน+สุกัญญา+แสนตา+(Pang)+👋;ทำงานฝ่าย+AI+·+Full-Stack+·+LLM+·+Automation;นักศึกษาเทคโนโลยีสารสนเทศ+ม.ราชภัฏเชียงราย" alt="typing" /></a>
+### AI & Full-Stack Developer
+
+สวัสดีค่ะ ฉัน สุกัญญา แสนตา (Pang) 👋
+<br/>
+ทำงานฝ่าย AI · Full-Stack · LLM · Automation
+<br/>
+นักศึกษาเทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏเชียงราย
 
 <br/>
 
