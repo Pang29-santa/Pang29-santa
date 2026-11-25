@@ -4,7 +4,7 @@
 
 ### AI & Full-Stack Developer
 
-ทำงานฝ่าย AI · Full-Stack · LLM · Automation
+AI · Full-Stack · LLM · Automation
 
 <br/>
 
@@ -13,15 +13,6 @@
 </div>
 
 <br/>
-
-## 🌿 เกี่ยวกับฉัน
-
-```text
-👩‍💻 ตำแหน่ง      AI Developer (Full-Stack) · ฝ่าย AI
-🤖 กำลังทำ       ระบบอัจฉริยะด้วย AI / LLM และระบบ Automation
-🌱 โปรเจกต์       ระบบตรวจสอบโรคและแมลงในพืช · แอปรถรางท่องเที่ยว
-🎮 งานอดิเรก     เล่นเกม · เล่นกับสัตว์ · ดูการ์ตูน
-```
 
 ## 🛠️ ทักษะ
 
