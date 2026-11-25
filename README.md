@@ -2,14 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3B2F&height=200&section=header&text=Pang29-santa&fontSize=56&fontColor=F5F0E6" />
 
-### AI & Full-Stack Developer
-
-AI · Full-Stack · LLM · Automation
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Pang29-santa&label=Profile+views&color=2C5040&style=for-the-badge" />
-
 </div>
 
 <br/>
