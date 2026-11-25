@@ -1,76 +1,75 @@
 <div align="center">
 
-# สวัสดีค่ะ 👋 ฉัน สุกัญญา (Pang)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1E3B2F,50:2C5040,100:66734F&text=Sukanya%20Santa&fontSize=60&fontColor=F5F0E6&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descSize=22&descColor=DCD3BC&descAlignY=58&animation=fadeIn" />
 
-### AI & Full-Stack Developer · นักศึกษาเทคโนโลยีสารสนเทศ
+<a href="https://github.com/Pang29-santa"><img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=22&duration=3000&pause=1000&color=C8B48A&center=true&vCenter=true&width=600&lines=สวัสดีค่ะ+ฉัน+สุกัญญา+แสนตา+(Pang)+👋;ทำงานฝ่าย+AI+·+Full-Stack+·+LLM+·+Automation;นักศึกษาเทคโนโลยีสารสนเทศ+ม.ราชภัฏเชียงราย" alt="typing" /></a>
 
-มหาวิทยาลัยราชภัฏเชียงราย · เชียงราย, ประเทศไทย 🇹🇭
+<br/>
 
 <a href="mailto:Pangsanta3@gmail.com"><img src="https://img.shields.io/badge/Email-Pangsanta3@gmail.com-1E3B2F?style=for-the-badge&logo=gmail&logoColor=DCD3BC" /></a>
+<img src="https://img.shields.io/badge/เชียงราย-ประเทศไทย-66734F?style=for-the-badge&logo=googlemaps&logoColor=F5F0E6" />
+<img src="https://komarev.com/ghpvc/?username=Pang29-santa&label=Profile+views&color=2C5040&style=for-the-badge" />
 
 </div>
 
----
+<br/>
 
 ## 🌿 เกี่ยวกับฉัน
 
-- 🤖 ทำงานในฝ่าย AI พัฒนาระบบ Full-Stack, AI / LLM และ Automation (ประสบการณ์ 1 ปี)
-- 🌱 สร้างระบบตรวจสอบโรคและแมลงในพืชด้วย AI
-- 🚋 พัฒนาแอปพลิเคชันรถรางท่องเที่ยว
-- 🎮 ชอบเล่นเกม เล่นกับสัตว์ และดูการ์ตูน
+```text
+👩‍💻 ตำแหน่ง      AI Developer (Full-Stack) · ฝ่าย AI · ประสบการณ์ 1 ปี
+🎓 การศึกษา      เทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏเชียงราย
+🤖 กำลังทำ       ระบบอัจฉริยะด้วย AI / LLM และระบบ Automation
+🌱 โปรเจกต์       ระบบตรวจสอบโรคและแมลงในพืช · แอปรถรางท่องเที่ยว
+🎮 งานอดิเรก     เล่นเกม · เล่นกับสัตว์ · ดูการ์ตูน
+```
 
 ## 🛠️ ทักษะ
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon-3DDC84?style=for-the-badge&logoColor=white)
+<div align="center">
 
-**AI / LLM · Automation · REST API · Cloud Deployment**
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,cs,flutter,dart,html,css,mysql,git,github,vscode&perline=7&theme=dark" />
+
+<br/><br/>
+
+`AI / LLM` · `Automation` · `REST API` · `Cloud Deployment` · `Katalon (Testing)` · `Microsoft Office`
+
+</div>
 
 ## 📂 โปรเจกต์เด่น
 
-| โปรเจกต์ | รายละเอียด |
-|---|---|
-| [Plant-Disease-and-Pest-Detection-System](https://github.com/Pang29-santa/Plant-Disease-and-Pest-Detection-System) | ระบบตรวจสอบโรคและแมลงในพืช (Frontend) |
-| [Plant-Disease-and-Pest-Detection-System-backend](https://github.com/Pang29-santa/Plant-Disease-and-Pest-Detection-System-backend) | ระบบตรวจสอบโรคและแมลงในพืช (Backend · Python) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 🌱 Plant Disease & Pest Detection
+ระบบตรวจสอบโรคและแมลงในพืช
+
+[Frontend (JavaScript)](https://github.com/Pang29-santa/Plant-Disease-and-Pest-Detection-System) · [Backend (Python)](https://github.com/Pang29-santa/Plant-Disease-and-Pest-Detection-System-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚋 แอปพลิเคชันรถรางท่องเที่ยว
+พัฒนาแอปพลิเคชันสำหรับบริการรถรางท่องเที่ยว (2023)
+
+`Flutter` · `Mobile`
+
+</td>
+</tr>
+</table>
+
+## 📊 สถิติ GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pang29-santa&show_icons=true&hide_border=true&bg_color=F5F0E6&title_color=1E3B2F&icon_color=66734F&text_color=2C5040" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pang29-santa&layout=compact&hide_border=true&bg_color=F5F0E6&title_color=1E3B2F&text_color=2C5040" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pang29-santa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C8B48A&icon_color=66734F&text_color=DCD3BC&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pang29-santa&layout=compact&hide_border=true&bg_color=0D1117&title_color=C8B48A&text_color=DCD3BC" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pang29-santa&hide_border=true&background=0D1117&ring=66734F&fire=C8B48A&currStreakLabel=C8B48A&sideLabels=DCD3BC&currStreakNum=DCD3BC&sideNums=DCD3BC&dates=66734F" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pang29-santa&bg_color=0D1117&color=C8B48A&line=66734F&point=DCD3BC&area=true&area_color=66734F&hide_border=true" />
 
 </div>
 
----
-
-<div align="center">
-
-📫 สนใจร่วมงานหรือพูดคุย ติดต่อได้ที่อีเมลด้านบนได้เลยค่ะ
-
-</div>
-## Hi there 👋
-
-<!--
-**Pang29-santa/Pang29-santa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:66734F,50:2C5040,100:1E3B2F&section=footer" />
