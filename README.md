@@ -1,19 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3B2F&height=200&section=header&text=Sukanya%20Santa&fontSize=56&fontColor=F5F0E6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3B2F&height=200&section=header&text=Pang29-santa&fontSize=56&fontColor=F5F0E6" />
 
 ### AI & Full-Stack Developer
 
-สวัสดีค่ะ ฉัน สุกัญญา แสนตา (Pang) 👋
-<br/>
 ทำงานฝ่าย AI · Full-Stack · LLM · Automation
-<br/>
-นักศึกษาเทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏเชียงราย
 
 <br/>
 
-<a href="mailto:Pangsanta3@gmail.com"><img src="https://img.shields.io/badge/Email-Pangsanta3@gmail.com-1E3B2F?style=for-the-badge&logo=gmail&logoColor=DCD3BC" /></a>
-<img src="https://img.shields.io/badge/เชียงราย-ประเทศไทย-66734F?style=for-the-badge&logo=googlemaps&logoColor=F5F0E6" />
 <img src="https://komarev.com/ghpvc/?username=Pang29-santa&label=Profile+views&color=2C5040&style=for-the-badge" />
 
 </div>
@@ -23,8 +17,7 @@
 ## 🌿 เกี่ยวกับฉัน
 
 ```text
-👩‍💻 ตำแหน่ง      AI Developer (Full-Stack) · ฝ่าย AI · ประสบการณ์ 1 ปี
-🎓 การศึกษา      เทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏเชียงราย
+👩‍💻 ตำแหน่ง      AI Developer (Full-Stack) · ฝ่าย AI
 🤖 กำลังทำ       ระบบอัจฉริยะด้วย AI / LLM และระบบ Automation
 🌱 โปรเจกต์       ระบบตรวจสอบโรคและแมลงในพืช · แอปรถรางท่องเที่ยว
 🎮 งานอดิเรก     เล่นเกม · เล่นกับสัตว์ · ดูการ์ตูน
@@ -57,7 +50,7 @@
 <td width="50%" valign="top">
 
 ### 🚋 แอปพลิเคชันรถรางท่องเที่ยว
-พัฒนาแอปพลิเคชันสำหรับบริการรถรางท่องเที่ยว (2023)
+พัฒนาแอปพลิเคชันสำหรับบริการรถรางท่องเที่ยว
 
 `Flutter` · `Mobile`
 
